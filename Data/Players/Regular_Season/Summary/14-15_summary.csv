@@ -1,0 +1,363 @@
+﻿R;Spieler;Team;Pos;GP;G;A;PTS;P/GP;PIM Total;+/-
+1;Pettersson Fredrik;HC Lugano;Stürmer;49;33;36;69;1.41;36;5
+2;Klasen Linus;HC Lugano;Stürmer;46;20;35;55;1.20;10;5
+3;Bouchard Pierre-Marc;EV Zug;Stürmer;49;17;34;51;1.04;16;19
+4;Martschini Lino;EV Zug;Stürmer;50;23;24;47;0.94;2;27
+5;Danielsson Nicklas;SC Rapperswil-Jona Lakers;Stürmer;46;19;28;47;1.02;50;-11
+6;Plüss Martin;SC Bern;Stürmer;50;23;22;45;0.90;18;7
+7;Earl Robbie;EV Zug;Stürmer;48;19;26;45;0.94;34;17
+8;Pouliot Marc-Antoine;Fribourg-Gottéron;Stürmer;49;19;24;43;0.88;66;5
+9;Ritchie Byron;SC Bern;Stürmer;50;14;29;43;0.86;38;3
+10;Wick Roman;ZSC Lions;Stürmer;49;16;25;41;0.84;36;16
+11;Giroux Alexandre;HC Ambri-Piotta;Stürmer;49;27;13;40;0.82;28;-9
+12;Sprunger Julien;Fribourg-Gottéron;Stürmer;50;14;26;40;0.80;18;-3
+13;Arlbrandt Pär;EHC Biel;Stürmer;48;17;22;39;0.81;12;-5
+14;Persson Niklas;SC Rapperswil-Jona Lakers;Stürmer;43;17;22;39;0.91;16;-9
+15;Suri Reto;EV Zug;Stürmer;50;15;24;39;0.78;48;20
+16;Johansson Mikael;SC Rapperswil-Jona Lakers;Stürmer;40;6;33;39;0.98;44;-7
+17;D'Agostini Matt;Genève-Servette HC;Stürmer;40;14;23;37;0.92;30;11
+18;Holloway Bud;SC Bern;Stürmer;42;13;24;37;0.88;24;7
+19;Kamber Oliver;EHC Biel;Stürmer;50;9;28;37;0.74;10;-5
+20;Gragnani Marc-André;SC Bern;Verteidiger;49;8;29;37;0.76;18;13
+21;Sondell Daniel;EV Zug;Verteidiger;46;6;30;36;0.78;6;17
+22;Mauldin Greg;Fribourg-Gottéron;Stürmer;40;18;17;35;0.88;8;7
+23;Paulsson Marcus;HC Davos;Stürmer;41;14;21;35;0.85;20;15
+24;Shannon Ryan;ZSC Lions;Stürmer;49;10;25;35;0.71;18;19
+25;Lindgren Perttu;HC Davos;Stürmer;42;11;23;34;0.81;4;13
+26;Romy Kevin;Genève-Servette HC;Stürmer;48;18;15;33;0.69;16;1
+27;Wieser Marc;HC Davos;Stürmer;47;16;17;33;0.70;82;22
+28;Axelsson Dick;HC Davos;Stürmer;45;14;19;33;0.73;30;13
+29;Filppula Ilari;HC Lugano;Stürmer;37;12;21;33;0.89;10;2
+30;Pyatt Tom;Genève-Servette HC;Stürmer;50;11;22;33;0.66;10;9
+31;Hall Adam;HC Ambri-Piotta;Stürmer;50;14;18;32;0.64;34;-3
+32;Walser Derrick;SC Rapperswil-Jona Lakers;Verteidiger;39;11;21;32;0.82;26;-5
+33;Spylo Ahren;EHC Biel;Stürmer;45;20;11;31;0.69;58;-6
+34;Holden Josh;EV Zug;Stürmer;34;15;16;31;0.91;68;19
+35;Nilsson Robert;ZSC Lions;Stürmer;44;11;20;31;0.70;18;7
+36;Olausson Niklas;EHC Biel;Stürmer;37;8;23;31;0.84;12;-7
+37;Aucoin Keith;HC Ambri-Piotta;Stürmer;41;7;24;31;0.76;18;-13
+38;Bertschy Christoph;SC Bern;Stürmer;44;14;16;30;0.68;26;14
+39;Umicevic Dragan;EHC Biel;Stürmer;44;10;20;30;0.68;26;-13
+40;McLean Brett;HC Lugano;Stürmer;47;9;21;30;0.64;14;2
+41;Louhivaara Ossi;Lausanne HC;Stürmer;46;14;15;29;0.63;37;8
+42;Ambühl Andres;HC Davos;Stürmer;49;13;16;29;0.59;28;14
+43;Pesonen Harri;Lausanne HC;Stürmer;48;10;19;29;0.60;49;-1
+44;Hollenstein Denis;Kloten Flyers;Stürmer;35;8;21;29;0.83;28;15
+45;Loeffel Romain;Genève-Servette HC;Verteidiger;43;8;21;29;0.67;22;-6
+46;Simion Dario;HC Davos;Stürmer;47;13;14;27;0.57;4;9
+47;Baltisberger Chris;ZSC Lions;Stürmer;47;12;15;27;0.57;38;2
+48;Rubin Daniel;Genève-Servette HC;Stürmer;46;11;16;27;0.59;22;-6
+49;Grossmann Robin;EV Zug;Verteidiger;50;4;22;26;0.52;83;14
+50;Pyatt Taylor;Genève-Servette HC;Stürmer;38;14;11;25;0.66;18;-3
+51;Steiner Daniel;HC Ambri-Piotta;Stürmer;49;14;11;25;0.51;26;0
+52;Bärtschi Patrik;ZSC Lions;Stürmer;45;13;12;25;0.56;16;10
+53;Guggisberg Peter;Kloten Flyers;Stürmer;42;13;12;25;0.60;18;-6
+54;Hofmann Gregory;HC Davos;Stürmer;47;11;14;25;0.53;18;11
+55;Dubé Christian;Fribourg-Gottéron;Stürmer;46;10;15;25;0.54;43;-13
+56;Blum Eric-Ray;SC Bern;Verteidiger;50;2;23;25;0.50;26;8
+57;Bieber Matthias;Kloten Flyers;Stürmer;50;17;7;24;0.48;12;-10
+58;Pestoni Inti;HC Ambri-Piotta;Stürmer;30;9;15;24;0.80;24;-6
+59;Gardner Ryan;SC Bern;Stürmer;44;9;15;24;0.55;24;13
+60;Santala Tommi;Kloten Flyers;Stürmer;39;9;15;24;0.62;42;-4
+61;Trachsler Morris;ZSC Lions;Stürmer;50;8;16;24;0.48;28;11
+62;Haas Gaëtan;EHC Biel;Stürmer;49;8;16;24;0.49;20;3
+63;Froidevaux Etienne;Lausanne HC;Stürmer;50;13;10;23;0.46;22;-10
+64;Künzle Mike;ZSC Lions;Stürmer;47;12;11;23;0.49;28;16
+65;Hytönen Juha-Pekka;Lausanne HC;Stürmer;41;11;12;23;0.56;10;5
+66;Cunti Luca;ZSC Lions;Stürmer;34;9;14;23;0.68;14;9
+67;Dupont Micki;Kloten Flyers;Verteidiger;48;2;21;23;0.48;26;-13
+68;Jörg Mauro;HC Davos;Stürmer;49;14;8;22;0.45;14;10
+69;Mottet Killian;Fribourg-Gottéron;Stürmer;50;12;10;22;0.44;43;5
+70;Mieville Alain;Lausanne HC;Stürmer;49;10;12;22;0.45;59;4
+71;Corvi Enzo;HC Davos;Stürmer;40;9;13;22;0.55;14;7
+72;Scherwey Tristan;SC Bern;Stürmer;45;7;15;22;0.49;68;18
+73;Rossi Matthias;EHC Biel;Stürmer;49;10;11;21;0.43;6;-3
+74;Schäppi Reto;ZSC Lions;Stürmer;50;9;12;21;0.42;20;14
+75;Genazzi Joël;Lausanne HC;Verteidiger;50;2;19;21;0.42;8;-4
+76;Picard Alexandre;Genève-Servette HC;Stürmer;30;10;10;20;0.67;22;0
+77;Simek Juraj;HC Lugano;Stürmer;39;9;11;20;0.51;12;-7
+78;Fritsche Dan;ZSC Lions;Stürmer;46;9;11;20;0.43;10;11
+79;Kast Timothy;Genève-Servette HC;Stürmer;50;6;14;20;0.40;14;-7
+80;Andersson Calle;HC Lugano;Verteidiger;48;6;14;20;0.42;22;-6
+81;Fransson Johan;SC Rapperswil-Jona Lakers;Verteidiger;32;4;16;20;0.62;22;-22
+82;Bergeron Marc-André;ZSC Lions;Verteidiger;46;4;16;20;0.43;38;3
+83;Kienzle Lorenz;HC Lugano;Verteidiger;49;2;18;20;0.41;28;10
+84;Plüss Benny;Fribourg-Gottéron;Stürmer;30;12;7;19;0.63;14;-1
+85;Ramholt Tim;EV Zug;Verteidiger;50;9;10;19;0.38;48;24
+86;Berger Alain;SC Bern;Stürmer;50;8;11;19;0.38;26;14
+87;Murray Jordan;SC Rapperswil-Jona Lakers;Stürmer;40;7;12;19;0.48;20;-18
+88;Wieser Dino;HC Davos;Stürmer;38;7;12;19;0.50;59;12
+89;Kobasew Chuck;SC Bern;Stürmer;29;9;9;18;0.62;24;2
+90;Keller Ryan;ZSC Lions;Stürmer;39;9;9;18;0.46;28;4
+91;Sutter Fabian;EV Zug;Stürmer;50;9;9;18;0.36;14;11
+92;Bürgler Dario;EV Zug;Stürmer;29;8;10;18;0.62;14;6
+93;Lemm Romano;Kloten Flyers;Stürmer;42;7;11;18;0.43;22;-1
+94;Koistinen Ville;HC Davos;Verteidiger;40;5;13;18;0.45;34;10
+95;Gobbi John;Lausanne HC;Verteidiger;50;3;15;18;0.36;70;-1
+96;Mueller Peter;Kloten Flyers;Stürmer;34;10;7;17;0.50;12;-6
+97;Ruefenacht Thomas;SC Bern;Stürmer;45;8;9;17;0.38;53;1
+98;Du Bois Felicien;HC Davos;Verteidiger;46;7;10;17;0.37;16;12
+99;Lombardi Matthew;Genève-Servette HC;Stürmer;19;6;11;17;0.89;8;4
+100;Mercier Jonathan;Genève-Servette HC;Verteidiger;40;6;11;17;0.42;14;12
+101;Walsky Eric;SC Rapperswil-Jona Lakers;Stürmer;39;6;11;17;0.44;8;-8
+102;Huguenin Anthony;Fribourg-Gottéron;Verteidiger;50;4;13;17;0.34;12;-14
+103;Kamerzin Jérémie;Fribourg-Gottéron;Verteidiger;38;3;14;17;0.45;34;-1
+104;Untersander Ramon;EHC Biel;Verteidiger;42;3;14;17;0.40;8;-8
+105;Krueger Justin;SC Bern;Verteidiger;41;3;14;17;0.41;43;8
+106;Brunner Damien;HC Lugano;Stürmer;20;11;5;16;0.80;30;2
+107;Bodenmann Simon;Kloten Flyers;Stürmer;49;9;7;16;0.33;36;-12
+108;Herburger Raphael;EHC Biel;Stürmer;41;8;8;16;0.39;41;-2
+109;Bezina Goran;Genève-Servette HC;Verteidiger;40;2;14;16;0.40;24;-3
+110;Rivera Christopher;Genève-Servette HC;Stürmer;46;7;8;15;0.33;16;-1
+111;Tschantré Mathieu;EHC Biel;Stürmer;32;7;8;15;0.47;12;3
+112;Wetzel Philipp;EHC Biel;Stürmer;45;7;8;15;0.33;10;-4
+113;Vukovic Daniel;Genève-Servette HC;Verteidiger;50;5;10;15;0.30;34;16
+114;Walker Julian;HC Lugano;Stürmer;47;4;11;15;0.32;55;6
+115;Seger Mathias;ZSC Lions;Verteidiger;42;1;14;15;0.36;20;8
+116;Back Rene;Kloten Flyers;Verteidiger;50;0;15;15;0.30;36;-4
+117;Lauper Adrien;HC Ambri-Piotta;Stürmer;45;8;6;14;0.31;24;-6
+118;Monnet Thibaut;Fribourg-Gottéron;Stürmer;35;6;8;14;0.40;14;-10
+119;Blindenbacher Severin;ZSC Lions;Verteidiger;46;3;11;14;0.30;22;23
+120;Christen Björn;EV Zug;Stürmer;43;2;12;14;0.33;33;1
+121;Ulmer Stefan;HC Lugano;Verteidiger;35;1;13;14;0.40;24;-1
+122;Schneeberger Noah;HC Davos;Verteidiger;46;1;13;14;0.30;24;16
+123;Schlumpf Dominik;EV Zug;Verteidiger;50;1;13;14;0.28;6;10
+124;Liniger Michael;Kloten Flyers;Stürmer;50;7;6;13;0.26;24;-4
+125;Walser Samuel;HC Davos;Stürmer;47;6;7;13;0.28;20;-14
+126;Vauclair Julien;HC Lugano;Verteidiger;38;6;7;13;0.34;30;9
+127;Chiesa Alessandro;HC Lugano;Verteidiger;49;5;8;13;0.27;63;17
+128;Tambellini Jeff;Fribourg-Gottéron;Stürmer;30;5;8;13;0.43;10;-2
+129;Chavaillaz Benjamin;HC Ambri-Piotta;Verteidiger;49;4;9;13;0.27;14;1
+130;Hürlimann Stefan;SC Rapperswil-Jona Lakers;Stürmer;49;3;10;13;0.27;36;-16
+131;Kwiatkowski Joel;Fribourg-Gottéron;Verteidiger;42;3;10;13;0.31;67;-5
+132;Jobin David;SC Bern;Verteidiger;42;2;11;13;0.31;10;5
+133;Furrer Philippe;SC Bern;Verteidiger;35;2;11;13;0.37;20;15
+134;Sannitz Raffaele;HC Lugano;Stürmer;48;1;12;13;0.27;36;3
+135;Gautschi Marc;HC Ambri-Piotta;Verteidiger;46;0;13;13;0.28;16;-3
+136;Bertaggia Alessio;HC Lugano;Stürmer;49;8;4;12;0.24;22;-4
+137;Sciaroni Gregory;HC Davos;Stürmer;29;7;5;12;0.41;28;-9
+138;Schnyder Fabian;EV Zug;Stürmer;50;5;7;12;0.24;18;-6
+139;Dostoinov Alexei;HC Ambri-Piotta;Stürmer;44;5;7;12;0.27;10;-16
+140;Bykov Andrey;Fribourg-Gottéron;Stürmer;21;4;8;12;0.57;4;2
+141;Zangger Sandro;EV Zug;Stürmer;36;4;8;12;0.33;10;3
+142;Weisskopf Dan;SC Rapperswil-Jona Lakers;Verteidiger;43;3;9;12;0.28;22;-4
+143;Von Gunten Patrick;Kloten Flyers;Verteidiger;46;3;9;12;0.26;20;8
+144;Helbling Timo;Fribourg-Gottéron;Verteidiger;45;2;10;12;0.27;86;0
+145;Guerra Samuel;HC Davos;Verteidiger;45;1;11;12;0.27;20;-2
+146;Gerber Roland;Genève-Servette HC;Stürmer;45;6;5;11;0.24;34;0
+147;Bang Daniel;Lausanne HC;Stürmer;30;6;5;11;0.37;18;-2
+148;Lammer Dominic;EV Zug;Stürmer;44;5;6;11;0.25;41;-8
+149;Almond Cody;Genève-Servette HC;Stürmer;20;5;6;11;0.55;24;-1
+150;Duca Paolo;HC Ambri-Piotta;Stürmer;48;5;6;11;0.23;47;-18
+151;Berger Pascal;SC Bern;Stürmer;50;5;6;11;0.22;10;6
+152;Deruns Thomas;Lausanne HC;Stürmer;36;4;7;11;0.31;8;-7
+153;Hasani Adam;Fribourg-Gottéron;Stürmer;46;4;7;11;0.24;20;-22
+154;Joggi Mathias;EHC Biel;Stürmer;39;4;7;11;0.28;32;-4
+155;Fey Kevin;EHC Biel;Verteidiger;49;3;8;11;0.22;16;5
+156;Hirschi Steve;HC Lugano;Verteidiger;33;3;8;11;0.33;20;0
+157;Trunz Adrian;HC Ambri-Piotta;Verteidiger;50;3;8;11;0.22;12;-7
+158;Von Arx Reto;HC Davos;Stürmer;43;1;10;11;0.26;26;-2
+159;Antonietti Eliot;Genève-Servette HC;Verteidiger;48;1;10;11;0.23;41;1
+160;Bouillon Francis;HC Ambri-Piotta;Verteidiger;31;0;11;11;0.35;30;-11
+161;Berger Nils;SC Rapperswil-Jona Lakers;Stürmer;43;8;2;10;0.23;8;-4
+162;Reuille Sebastien;HC Lugano;Stürmer;41;6;4;10;0.24;10;1
+163;Loichat Michaël;SC Bern;Stürmer;46;6;4;10;0.22;12;2
+164;Ehrensperger Gianni;EHC Biel;Stürmer;30;5;5;10;0.33;22;-5
+165;Casutt Corsin;Kloten Flyers;Stürmer;48;5;5;10;0.21;6;-2
+166;Bastl Mark;ZSC Lions;Stürmer;23;5;5;10;0.43;8;3
+167;Rizzello Antonio;SC Rapperswil-Jona Lakers;Stürmer;46;5;5;10;0.22;20;-18
+168;Stucki Christian;HC Ambri-Piotta;Stürmer;32;4;6;10;0.31;41;-1
+169;Vauclair Tristan;Fribourg-Gottéron;Stürmer;42;4;6;10;0.24;38;-15
+170;Birbaum Alain;HC Ambri-Piotta;Verteidiger;48;3;7;10;0.21;40;-20
+171;Diem Nolan;EV Zug;Stürmer;47;3;7;10;0.21;12;-3
+172;Vandermeer James;Kloten Flyers;Verteidiger;43;3;7;10;0.23;39;-4
+173;Kostner Diego;HC Lugano;Stürmer;36;3;7;10;0.28;20;-6
+174;Schilt Sebastian;Fribourg-Gottéron;Verteidiger;49;2;8;10;0.20;24;-13
+175;Trutmann Dario;Genève-Servette HC;Verteidiger;49;1;9;10;0.20;10;-20
+176;Fuchs Jason;HC Ambri-Piotta;Stürmer;39;1;9;10;0.26;8;2
+177;Conz Florian;Lausanne HC;Stürmer;39;7;2;9;0.23;12;-4
+178;Herzog Fabrice;EV Zug;Stürmer;43;6;3;9;0.21;16;5
+179;Pedretti Marco;SC Rapperswil-Jona Lakers;Stürmer;49;6;3;9;0.18;14;-10
+180;Samson Jérôme;EHC Biel;Stürmer;12;5;4;9;0.75;40;-3
+181;Neuenschwander Caryl;Lausanne HC;Stürmer;46;4;5;9;0.20;14;-2
+182;Sieber Lukas;SC Rapperswil-Jona Lakers;Stürmer;33;4;5;9;0.27;12;-9
+183;Jacquemet Arnaud;Genève-Servette HC;Stürmer;45;4;5;9;0.20;12;-8
+184;Ngoy Michael;Fribourg-Gottéron;Verteidiger;50;4;5;9;0.18;20;-11
+185;Alatalo Santeri;EV Zug;Verteidiger;47;3;6;9;0.19;69;7
+186;Kellenberger Steve;Kloten Flyers;Stürmer;46;2;7;9;0.20;10;-7
+187;Steinmann Janick;HC Lugano;Stürmer;37;2;7;9;0.24;14;2
+188;Maurer Marco;HC Lugano;Verteidiger;38;2;7;9;0.24;80;6
+189;Paschoud Claude-C.;HC Davos;Verteidiger;50;1;8;9;0.18;6;17
+190;Cadonau Claudio;EHC Biel;Verteidiger;46;1;8;9;0.20;22;2
+191;Leeger Larri;Lausanne HC;Verteidiger;50;0;9;9;0.18;54;0
+192;Thibaudeau Nicolas;SC Rapperswil-Jona Lakers;Stürmer;46;6;2;8;0.17;8;-4
+193;Wick Jeremy;Genève-Servette HC;Stürmer;20;5;3;8;0.40;4;-2
+194;Ryser Sven;SC Rapperswil-Jona Lakers;Stürmer;40;5;3;8;0.20;42;-3
+195;Fritsche John;Fribourg-Gottéron;Stürmer;50;4;4;8;0.16;18;-27
+196;Neukom Benjamin;SC Rapperswil-Jona Lakers;Stürmer;38;4;4;8;0.21;16;-10
+197;Praplan Vincent;Kloten Flyers;Stürmer;46;4;4;8;0.17;8;-1
+198;Bianchi Elias;HC Ambri-Piotta;Stürmer;36;3;5;8;0.22;20;-10
+199;Berthon Eliot;EHC Biel;Stürmer;25;3;5;8;0.32;6;4
+200;Geering Patrick;ZSC Lions;Verteidiger;25;3;5;8;0.32;0;15
+201;Steiner Nicholas;EHC Biel;Verteidiger;44;3;5;8;0.18;47;2
+202;Malgin Denis;ZSC Lions;Stürmer;23;2;6;8;0.35;6;4
+203;Frick Lukas;Kloten Flyers;Verteidiger;49;2;6;8;0.16;4;3
+204;Rytz Philippe;Lausanne HC;Verteidiger;50;2;6;8;0.16;22;4
+205;Stancescu Victor;Kloten Flyers;Stürmer;39;2;6;8;0.21;34;-1
+206;Schlagenhauf Roman;HC Ambri-Piotta;Stürmer;48;1;7;8;0.17;18;-16
+207;Peter Emanuel;EHC Biel;Stürmer;45;1;7;8;0.18;8;-8
+208;Marti Christian;Genève-Servette HC;Verteidiger;32;1;7;8;0.25;20;6
+209;Hächler Cedric;SC Rapperswil-Jona Lakers;Verteidiger;50;0;8;8;0.16;38;-18
+210;Lhotak Lukas;HC Ambri-Piotta;Stürmer;40;5;2;7;0.18;8;-13
+211;Moser Simon;SC Bern;Stürmer;28;5;2;7;0.25;18;1
+212;Herren Yannick;Lausanne HC;Stürmer;32;4;3;7;0.22;10;-3
+213;Murray Brady;Kloten Flyers;Stürmer;28;4;3;7;0.25;4;-2
+214;Obrist Patrick;SC Rapperswil-Jona Lakers;Stürmer;36;4;3;7;0.19;16;-20
+215;Reichert Marc;SC Bern;Stürmer;37;3;4;7;0.19;8;4
+216;Joensuu Jesse;SC Bern;Stürmer;15;2;5;7;0.47;30;0
+217;Wellinger Thomas;EHC Biel;Verteidiger;47;1;6;7;0.15;10;-11
+218;Antonietti Benjamin;Lausanne HC;Stürmer;39;3;3;6;0.15;8;-4
+219;Leone Robin;Kloten Flyers;Stürmer;31;3;3;6;0.19;4;-5
+220;Ranger Paul;Kloten Flyers;Verteidiger;27;2;4;6;0.22;18;-8
+221;Lüthi Fabian;HC Ambri-Piotta;Stürmer;34;2;4;6;0.18;6;4
+222;Stalder Ralph;Lausanne HC;Verteidiger;49;2;4;6;0.12;10;-6
+223;Kreis Samuel;SC Bern;Verteidiger;48;2;4;6;0.12;12;-4
+224;Genoway Colby;Lausanne HC;Stürmer;15;1;5;6;0.40;2;0
+225;Abplanalp Marc;Fribourg-Gottéron;Verteidiger;39;1;5;6;0.15;12;-8
+226;Wirtanen Petteri;Fribourg-Gottéron;Stürmer;14;1;5;6;0.43;4;-13
+227;Gerber Beat;SC Bern;Verteidiger;39;1;5;6;0.15;37;4
+228;Cloutier Keven;SC Bern;Stürmer;12;4;1;5;0.42;6;1
+229;Senteler Sven;ZSC Lions;Stürmer;40;4;1;5;0.12;8;4
+230;Smith Derek;ZSC Lions;Verteidiger;25;3;2;5;0.20;4;10
+231;Fazzini Luca;HC Lugano;Stürmer;36;2;3;5;0.14;6;6
+232;Friedli Samuel;SC Rapperswil-Jona Lakers;Stürmer;10;2;3;5;0.50;2;1
+233;Jung Sven;HC Davos;Verteidiger;21;2;3;5;0.24;8;5
+234;Dünner Nico;EV Zug;Stürmer;22;2;3;5;0.23;4;-3
+235;Randegger Flurin;SC Bern;Verteidiger;50;2;3;5;0.10;22;15
+236;Granak Dominik;Fribourg-Gottéron;Verteidiger;14;1;4;5;0.36;6;2
+237;Iglesias Frédéric;Genève-Servette HC;Verteidiger;38;1;4;5;0.13;2;2
+238;Forster Beat;HC Davos;Verteidiger;15;1;4;5;0.33;18;0
+239;Kindschi Simon;HC Davos;Verteidiger;34;1;4;5;0.15;12;11
+240;Geyer Cyrill;SC Rapperswil-Jona Lakers;Verteidiger;34;1;4;5;0.15;12;-15
+241;Rouiller Anthony;EHC Biel;Verteidiger;18;0;5;5;0.28;4;-3
+242;Grassi Daniele;HC Ambri-Piotta;Stürmer;27;3;1;4;0.15;8;-7
+243;Jecker Benoit;EHC Biel;Verteidiger;43;2;2;4;0.09;8;-8
+244;Kuonen Raphael;SC Rapperswil-Jona Lakers;Stürmer;38;2;2;4;0.11;10;-2
+245;Schelling Philippe;Kloten Flyers;Verteidiger;49;2;2;4;0.08;20;4
+246;Brügger Sandro;Fribourg-Gottéron;Stürmer;42;2;2;4;0.10;8;1
+247;Fischer Jannik;Lausanne HC;Verteidiger;50;2;2;4;0.08;22;3
+248;Fischer Simon;Lausanne HC;Stürmer;32;1;3;4;0.12;16;3
+249;Berger Sven;SC Rapperswil-Jona Lakers;Verteidiger;47;1;3;4;0.09;30;-6
+250;Profico Leandro;SC Rapperswil-Jona Lakers;Verteidiger;23;1;3;4;0.17;8;-4
+251;Rod Noah;Genève-Servette HC;Stürmer;38;1;3;4;0.11;22;-10
+252;Tallinder Henrik;ZSC Lions;Verteidiger;16;1;3;4;0.25;12;10
+253;Bühler Cyrill;Kloten Flyers;Stürmer;30;0;4;4;0.13;20;-5
+254;Camperchioli Luca;HC Davos;Verteidiger;24;0;4;4;0.17;6;3
+255;Ness Martin;Fribourg-Gottéron;Stürmer;25;0;4;4;0.16;8;-7
+256;Lardi Federico;Lausanne HC;Verteidiger;37;0;4;4;0.11;12;1
+257;Ruzicka Stefan;Lausanne HC;Stürmer;9;0;4;4;0.44;2;0
+258;Erni Samuel;EV Zug;Verteidiger;47;0;4;4;0.09;20;1
+259;Stoffel Andri;ZSC Lions;Verteidiger;44;0;4;4;0.09;14;1
+260;Von Arx Jan;HC Davos;Verteidiger;42;0;4;4;0.10;20;6
+261;Müller Marco;SC Bern;Stürmer;20;2;1;3;0.15;2;1
+262;Repik Michal;EV Zug;Stürmer;4;2;1;3;0.75;0;2
+263;Ulmer Martin;EHC Biel;Stürmer;9;2;1;3;0.33;0;-5
+264;Frei Lars;SC Rapperswil-Jona Lakers;Stürmer;15;1;2;3;0.20;2;-5
+265;Jenni Marcel;Kloten Flyers;Stürmer;10;1;2;3;0.30;8;-2
+266;Dal Pian Giacomo;HC Lugano;Stürmer;34;1;2;3;0.09;2;-2
+267;Savary Paul;Lausanne HC;Stürmer;44;1;2;3;0.07;10;-4
+268;Lüthi Simon;EV Zug;Verteidiger;33;1;2;3;0.09;14;-3
+269;Sataric Rajan;SC Rapperswil-Jona Lakers;Verteidiger;47;1;2;3;0.06;6;-17
+270;Aeschlimann Marc;HC Davos;Stürmer;16;0;3;3;0.19;0;-1
+271;Kinrade Geoff;HC Ambri-Piotta;Verteidiger;5;0;3;3;0.60;4;0
+272;Schommer Patrick;SC Rapperswil-Jona Lakers;Stürmer;12;0;3;3;0.25;2;-6
+273;Siegenthaler Jonas;ZSC Lions;Verteidiger;41;0;3;3;0.07;39;4
+274;Andersson Jonas;Kloten Flyers;Stürmer;5;1;1;2;0.40;0;1
+275;Grieder Marc;HC Ambri-Piotta;Verteidiger;29;1;1;2;0.07;16;4
+276;Jelovac Igor;EHC Biel;Verteidiger;33;1;1;2;0.06;16;1
+277;Kparghai Clarence;HC Lugano;Verteidiger;34;1;1;2;0.06;24;-4
+278;Sprukts Janis;Fribourg-Gottéron;Stürmer;7;1;1;2;0.29;0;-3
+279;Douay Floran;Genève-Servette HC;Stürmer;12;1;1;2;0.17;2;0
+280;Dufner Mauro;SC Bern;Verteidiger;9;1;1;2;0.22;2;2
+281;Heitzmann Remo;SC Rapperswil-Jona Lakers;Stürmer;30;1;1;2;0.07;8;-8
+282;Neuenschwander Jan;ZSC Lions;Stürmer;30;1;1;2;0.07;4;-1
+283;Nodari Matteo;Lausanne HC;Verteidiger;26;0;2;2;0.08;10;-7
+284;Gossweiler Manuel;EHC Biel;Verteidiger;33;0;2;2;0.06;8;-5
+285;O'Byrne Ryan;HC Ambri-Piotta;Verteidiger;13;0;2;2;0.15;16;-6
+286;Schnyder Daniel;ZSC Lions;Verteidiger;44;0;2;2;0.05;2;0
+287;Zgraggen Jesse;HC Ambri-Piotta;Verteidiger;28;0;2;2;0.07;10;-7
+288;Bachofner Jérôme;ZSC Lions;Stürmer;7;1;0;1;0.14;4;3
+289;Lüthi Valentin;SC Rapperswil-Jona Lakers;Verteidiger;14;1;0;1;0.07;10;-4
+290;Merola Melvin;Fribourg-Gottéron;Stürmer;3;1;0;1;0.33;2;0
+291;Morant Johan;EV Zug;Verteidiger;5;1;0;1;0.20;8;3
+292;Mosimann Jan;EHC Biel;Stürmer;6;1;0;1;0.17;0;-3
+293;Redenbach Tyler;HC Davos;Stürmer;3;1;0;1;0.33;0;2
+294;Stoop Lukas;Kloten Flyers;Verteidiger;6;1;0;1;0.17;0;-4
+295;St-Pierre Martin;Lausanne HC;Stürmer;3;1;0;1;0.33;0;-1
+296;Augsburger Gaëtan;Lausanne HC;Stürmer;33;0;1;1;0.03;4;-4
+297;Blaser Yannick;EV Zug;Verteidiger;32;0;1;1;0.03;16;2
+298;Chiriaev Evgenï;Fribourg-Gottéron;Stürmer;2;0;1;1;0.50;0;1
+299;Kobach Reto;HC Ambri-Piotta;Verteidiger;42;0;1;1;0.02;14;-10
+300;Sidler Patrick;HC Ambri-Piotta;Verteidiger;45;0;1;1;0.02;12;-14
+301;Gloor Kevin;EHC Biel;Verteidiger;22;0;1;1;0.05;2;-6
+302;Heldner Fabian;HC Davos;Verteidiger;9;0;1;1;0.11;6;-1
+303;Hüsler Cedric;SC Rapperswil-Jona Lakers;Stürmer;6;0;1;1;0.17;0;-1
+304;Leino Ville;Kloten Flyers;Stürmer;4;0;1;1;0.25;0;0
+305;Maret Mathieu;Fribourg-Gottéron;Verteidiger;3;0;1;1;0.33;0;1
+306;Moser Christian;EHC Biel;Verteidiger;10;0;1;1;0.10;8;-3
+307;Randegger Gian-Andrea;Kloten Flyers;Verteidiger;44;0;1;1;0.02;30;-2
+308;Sartori Riccardo;HC Lugano;Verteidiger;37;0;1;1;0.03;10;-9
+309;Schmutz Flavio;SC Rapperswil-Jona Lakers;Stürmer;5;0;1;1;0.20;0;1
+310;Tabacek Jan;ZSC Lions;Verteidiger;11;0;1;1;0.09;0;6
+311;Traber Tim;Genève-Servette HC;Stürmer;29;0;1;1;0.03;41;-4
+312;Ahlström Philip;HC Lugano;Verteidiger;10;0;0;0;0.00;0;0
+313;Balmelli Lukas;HC Lugano;Stürmer;4;0;0;0;0.00;4;0
+314;Blatter Patrick;SC Rapperswil-Jona Lakers;Verteidiger;10;0;0;0;0.00;0;0
+315;Bonnet Julien;HC Ambri-Piotta;Verteidiger;2;0;0;0;0.00;0;0
+316;Botta Roman;Fribourg-Gottéron;Stürmer;2;0;0;0;0.00;0;0
+317;Brunold Alain;Fribourg-Gottéron;Stürmer;1;0;0;0;0.00;0;0
+318;Burki Codey;Fribourg-Gottéron;Stürmer;2;0;0;0;0.00;2;0
+319;Büsser Xeno;ZSC Lions;Verteidiger;1;0;0;0;0.00;0;0
+320;Devaja Dominik;Kloten Flyers;Stürmer;5;0;0;0;0.00;0;-1
+321;Diem Dominik;ZSC Lions;Stürmer;1;0;0;0;0.00;0;0
+322;Dupertuis Joey;Genève-Servette HC;Verteidiger;6;0;0;0;0.00;0;0
+323;Egli Chris;HC Davos;Stürmer;2;0;0;0;0.00;0;0
+324;Eigenmann Daniel;SC Rapperswil-Jona Lakers;Verteidiger;11;0;0;0;0.00;6;-4
+325;El Assaoui Sami;Kloten Flyers;Verteidiger;6;0;0;0;0.00;4;-1
+326;Girard Felix;Genève-Servette HC;Stürmer;4;0;0;0;0.00;0;0
+327;Grigioni Manuel;SC Rapperswil-Jona Lakers;Verteidiger;20;0;0;0;0.00;6;-4
+328;Grossniklaus Tim;SC Bern;Verteidiger;8;0;0;0;0.00;0;-1
+329;Harlacher Edson;Kloten Flyers;Verteidiger;30;0;0;0;0.00;6;-9
+330;Hartmann Jan Lee;Kloten Flyers;Stürmer;1;0;0;0;0.00;0;0
+331;Högger Fabio;Kloten Flyers;Stürmer;2;0;0;0;0.00;0;0
+332;Horansky Stanislav;EHC Biel;Stürmer;3;0;0;0;0.00;0;-1
+333;Impose Auguste;Genève-Servette HC;Stürmer;4;0;0;0;0.00;0;0
+334;Jeyabalan Nando;SC Rapperswil-Jona Lakers;Stürmer;1;0;0;0;0.00;0;0
+335;Karrer Roger;ZSC Lions;Verteidiger;5;0;0;0;0.00;0;0
+336;Kessler Tino;HC Davos;Stürmer;2;0;0;0;0.00;0;-1
+337;Knutti Luca;Fribourg-Gottéron;Stürmer;2;0;0;0;0.00;0;0
+338;Marchon Marc;EV Zug;Stürmer;4;0;0;0;0.00;0;-2
+339;Marchon Nathan;Fribourg-Gottéron;Stürmer;2;0;0;0;0.00;0;-1
+340;Marghitola Daniele;Fribourg-Gottéron;Verteidiger;1;0;0;0;0.00;0;0
+341;Marti Aurélien;Lausanne HC;Verteidiger;3;0;0;0;0.00;0;0
+342;Matewa Tony;Fribourg-Gottéron;Verteidiger;2;0;0;0;0.00;0;0
+343;Montandon Maxime;Fribourg-Gottéron;Verteidiger;37;0;0;0;0.00;2;-8
+344;Müller Loris;HC Lugano;Stürmer;1;0;0;0;0.00;0;0
+345;Paakkolanvaara Tommi;HC Lugano;Stürmer;5;0;0;0;0.00;0;0
+346;Romanenghi Matteo;HC Lugano;Stürmer;16;0;0;0;0.00;0;-2
+347;Ruutu Jarkko;EHC Biel;Stürmer;4;0;0;0;0.00;14;-2
+348;Sartori Jonathan;HC Lugano;Stürmer;3;0;0;0;0.00;0;1
+349;Schmuckli Florian;ZSC Lions;Verteidiger;6;0;0;0;0.00;2;2
+350;Schmutz Reto;SC Rapperswil-Jona Lakers;Stürmer;23;0;0;0;0.00;6;-10
+351;Schwarzenbach Diego;Fribourg-Gottéron;Stürmer;2;0;0;0;0.00;0;-1
+352;Seydoux Philippe;Lausanne HC;Verteidiger;19;0;0;0;0.00;6;-1
+353;Sitje Fredrik;ZSC Lions;Stürmer;8;0;0;0;0.00;2;-1
+354;Stämpfli David;EV Zug;Verteidiger;15;0;0;0;0.00;6;4
+355;Steinauer Joel;Kloten Flyers;Verteidiger;2;0;0;0;0.00;0;0
+356;Studer Thomas;Kloten Flyers;Stürmer;1;0;0;0;0.00;0;0
+357;Sutter Dave;Fribourg-Gottéron;Verteidiger;2;0;0;0;0.00;0;-1
+358;Ulmann Tim;Lausanne HC;Stürmer;22;0;0;0;0.00;4;-2
+359;Wildhaber David;Fribourg-Gottéron;Verteidiger;5;0;0;0;0.00;0;1
+360;Wüst Philipp;Fribourg-Gottéron;Stürmer;1;0;0;0;0.00;0;-1
+361;Zangger Marc;Fribourg-Gottéron;Verteidiger;17;0;0;0;0.00;0;-4
+362;Zanzi Gianluca;HC Lugano;Stürmer;1;0;0;0;0.00;0;0
