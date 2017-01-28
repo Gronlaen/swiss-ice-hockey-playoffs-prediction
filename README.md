@@ -1,3 +1,19 @@
+# Title TODO
+
+##General Introduction
+###speak about the data (size, features, span (seasons), ..)
+###method / analysis
+
+##Models
+
+##Results
+
+##Discussion (issues encountered, overfitting, ...)
+
+##Future Outlook
+
+##Conclusion
+
 # ADA_project
 
 ##Abstract:
