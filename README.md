@@ -10,8 +10,9 @@ There are two main leagues in Switzerland. The national league A (NL A), being t
 
 In this project, we tried to predict the outcome of the series instead of individual games, this is motivated by several factors. First of all randomness plays a huge role in the outcome of single game, a mathematically better team has a 24% chance of always beating an easier opponent. Secondly, this harder to intuitively define 
 ###Data
-We gathered statistic from seasons 2008-2009 to 2015-2016 from the [Swiss Ice Hockey Federation](http://www.sihf.ch/fr/). We extracted the regular season data of each team for both the NL A and NL B. Our methodology is as follows: we used statistics from the regular season as features to predict the outcome of the playoff series of the corresponding seasons. Since the top 8 teams face each other in the playoffs in each league, we have 7 series for each league and each season. This amounts to 112 observations in our dataset. We trained our models on seasons 08-09 until 14-15 and kept the playoffs of season 15-16 as our testing set. The feature vector for each team is  data gathered across the season, including:
+We gathered statistic from seasons 2008-2009 to 2015-2016 from the [Swiss Ice Hockey Federation](http://www.sihf.ch/fr/). We extracted the regular season data of each team for both the NL A and NL B. Our data generation pipeline is composed of two steps. First, we build feature vectors of regular season statistics for each team and each season, these statistics include:
 
+* Year: the season
 * GF: number of goals scored.
 * GA: number of goals conceded.
 * SHG: number of shots on goal.
@@ -36,8 +37,19 @@ We gathered statistic from seasons 2008-2009 to 2015-2016 from the [Swiss Ice Ho
 * 10': number of 10 min penalties.
 * PIM total: total number of penalties.
 
-We also have all of the preceding features per game. In total, this amounts to 34 features.
+We also have all of the preceding features per game. In total, this amounts to 34 features and 166 rows.
 
+Secondly, we extracted the results of each game of the playoffs. We then aggregated those games to series and computed the winner. This second dataset has the following characteristics:
+
+* Series_ID: a unique identifier of the season and the two teams involved e.g. `0910_HC Davos Kloten Flyers`
+* Opponent 0/Opponent 1: the name of the teams involved.
+* Winner: a label 0/1 depending on which team won the series.
+* Homefield advantage: the name of the team that played the most at home during the series.
+
+Since the top 8 teams face each other in the playoffs in each league, we have 7 series for each league and each season. This amounts to 112 observations in our dataset. 
+Since we want to predict the winner of the series given both teams season statistics, we had to combine the two datasets in a smart way. We chose to compute the column wise difference between the feature vectors of each team involved in the series i.e.`new_feature_vector = Opponent0_feature_vector - Opponent1_feature_vector` and append the label of the corresponding winner: 0 or 1.
+
+We trained our models on seasons 08-09 until 14-15 and kept the playoffs of season 15-16 as our testing set.
 
 ###method / analysis
 
