@@ -49,7 +49,9 @@ Secondly, we extracted the results of each game of the playoffs. We then aggrega
 Since the top 8 teams face each other in the playoffs in each league, we have 7 series for each league and each season. This amounts to 112 observations in our dataset. 
 Since we want to predict the winner of the series given both teams season statistics, we had to combine the two datasets in a smart way. We chose to compute the column wise difference between the feature vectors of each team involved in the series i.e.
 
-`new_feature_vector = Opponent0_feature_vector - Opponent1_feature_vector` and append the label of the corresponding winner: 0 or 1.
+`new_feature_vector = Opponent0_feature_vector - Opponent1_feature_vector`
+
+and we append the label of the corresponding winner: 0 or 1.
 
 We trained our models on seasons 08-09 until 14-15 and kept the playoffs of season 15-16 as our testing set.
 
