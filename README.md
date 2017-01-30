@@ -59,7 +59,7 @@ We trained our models on seasons 08-09 until 14-15 and kept the playoffs of seas
 
 ##Models
 
-[Learning curve](/Plots/learning_curve.pdf)
+![Learning curve](https://github.com/winni74/ADA_project/blob/master/Plots/learning_curve.pdf?raw=true)
 
 
 ##Results
