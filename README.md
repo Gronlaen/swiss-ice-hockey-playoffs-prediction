@@ -19,7 +19,7 @@ We gathered statistic from seasons 2008-2009 to 2015-2016 from the [Swiss Ice Ho
 * GF even: number of goals scored 5v5.
 * GA even: number of goals conceded 5v5.
 * PPG: number of goals scored in numerical superiority.
-* PP GA: number of goals conceded in numerical inferiority.
+* PP GA: number of goals conceded in numerical superiority.
 * SHG: number of goals scored in numerical inferiority.
 * PK GA: number of goals conceded in numerical inferiority.
 * SOWGF: number of goals scored in penalty shootouts.
@@ -60,6 +60,15 @@ We trained our models on seasons 08-09 until 14-15 and kept the playoffs of seas
 ##Models
 
 ##Results
+| Team 1 | Team 2 | Winner | Prediction |
+| :----: | :----: | :----: | :--------: |
+| SC Bern | ZSC Lions| SC Bern ||
+| HC Davos | Kloten Flyers | Hc Davos ||
+| Genève-Servette HC | Fribourg-Gottéron | Genève-Servette HC ||
+| EV Zug | HC Lugano | HC Lugano ||
+| SC Bern | HC Davos | SC Bern ||
+| Genève-Servette HC | HC Lugano | HC Lugano ||
+| SC Bern | HC Lugano | SC Bern ||
 
 ##Discussion (issues encountered, overfitting, ...)
 
