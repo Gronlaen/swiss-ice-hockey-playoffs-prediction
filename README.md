@@ -1,6 +1,10 @@
 # Predicting Swiss Ice Hockey Playoffs using Machine Learning Models
 
-## Introduction
+# Table of Contents
+
+[Introduction](#Introduction)
+
+# Introduction
 Our goal in this project is to predict the outcome of playoff series of the Swiss ice hockey league.
 Predicting the outcome of sports matches from statistics and performance data has always been an attractive but challenging task. Even more so in ice hockey where not much work has been devoted so far compared to other sports.
 
