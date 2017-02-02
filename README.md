@@ -54,6 +54,11 @@ and we append the label of the corresponding winner: 0 or 1.
 
 We trained our models on seasons 08-09 until 14-15 and kept the playoffs of season 15-16 as our testing set.
 
+**TODO:**
+
+* add exploratory data analysis, plots de fref
+* add feature importance, peut etre dans méthodes
+
 ## Method
 After having preprocessed our data, all classfier parameters were chosen using grid-search and 5-fold cross-validation. Our results are reported here:
 
@@ -69,11 +74,13 @@ Here is the learning curve obtained with our best performing model, SVM:
 ![Learning curve](learning_curve.png)
 
 
+
 ## Results
 We
+
 | Team 1 | Team 2 | Winner | Prediction |
 | :----: | :----: | :----: | :--------: |
-| SC Bern | ZSC Lions| SC Bern | ZSC Lions |
+| SC Bern | ZSC Lions| SC Bern | **ZSC Lions** |
 | HC Davos | Kloten Flyers | HC Davos | HC Davos |
 | Genève-Servette HC | Fribourg-Gottéron | Genève-Servette HC | Genève-Servette HC |
 | EV Zug | HC Lugano | HC Lugano | HC Lugano |
@@ -83,40 +90,18 @@ We
 
 ##Discussion (issues encountered, overfitting, ...)
 
-##Future Outlook
+**TODO:**
+* pas beaucoup de data, on a du ajouter la LNB
+* on voulait faire par player mais on a pas pu
+* peu de test set donc dur à correctement évaluer le modele, on a essayé de palier a ca en faisant l'average sr plusieurs runs
+
 
 ##Conclusion
 
-# ADA_project
+##Future Outlook
 
-##Abstract:
-Sport is a very interesting domain, when it comes to Data Analysis. We wanted to use a clean Dataset, in order to extract real informations and being able to make accurate predictions. Because of the few choices of Sports with large Dataset in Switzerland, the best choice was Ice Hockey.
 
-We want to exctract statistics from the Swiss Ice Hockey League in order to find interesting patterns and visualize them.
-Once we'll have found the interesting features, we want to use them to predict the outcome of the upcoming games. (Using a predictive model)
+## File contents
 
-##Data Description:
-In this project we choose to use the data from the Swiss Ice Hockey League (http://www.sihf.ch/fr/game-center/national-league).
-For each player of the league we have statistics about Goals/Assists, Shots, Penalties, Shootouts, Faceoffs and Time on Ice. 
-For each team of the league we have statistics about Goals, Shots, Power Play, Box Play, Penalties, Shootouts and Spectator Attendance.
-The data goes over 8 years and covers multiple leagues. We chose to focus on the main one, the LNA. This leagues is formed by 12 teams, for a total of more than 300 players.
-
-##Feasibility and Risks
-As all the data is accessible in CSV, we shouldn't have any problem parsing it. Nevertheless, we still don't know if the data is 100 percent correct or if there are missing or wrong entries.
-
-We want to do good visualization, but we are new to the field. Thus it could be challenging to find the right tools to use, and how to use them.
-
-Even if our visualization is good, the accuracy of the final predictions will only depend on the features we chose to use. Therefore the features extraction is the key to a good model. The risk comes from the fact that even if the method used is the good one, the accuracy of the prediction and therefore the viability of the model depends on how it is trained (which features are used).
-
-##Deliverables
-
-The visualizations will be available on a webpage, with all the documentation and explanations needed. We will also display the outcome of our predictions on a webpage.
-
-##Time Plan
-Estimated starting date : **mid of November**
-- Data analysis : **end of November**
-- Visualization : **early-mid of December**
-- features extraction : **mid of December**
-- model building : **early-mid of January**
-- predicting outcomes : **mid of January**
-- synthetisation of results : **end of January**
+example:
+* `ML.ipynb`: this notebook contains all the machine learning models tried, the hyperparamaters selection and the model validation.
