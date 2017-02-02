@@ -1,10 +1,24 @@
 # Predicting Swiss Ice Hockey Playoffs using Machine Learning Models
 
-# Table of Contents
+## Table of Contents
 
 [Introduction](#Introduction)
 
-# Introduction
+[Data](#data)
+
+[Method](#method)
+
+[Results](#results)
+
+[Discussion](#discussion)
+
+[Conclusion](#conclusion)
+
+[Future Outlook](#future-outlook)
+
+[File Contents](#file-contents)
+
+## Introduction
 Our goal in this project is to predict the outcome of playoff series of the Swiss ice hockey league.
 Predicting the outcome of sports matches from statistics and performance data has always been an attractive but challenging task. Even more so in ice hockey where not much work has been devoted so far compared to other sports.
 
@@ -80,7 +94,7 @@ Here is the learning curve obtained with our best performing model, SVM:
 
 
 ## Results
-We
+We used the NLA playoffs of the season 2015-12016 as our prediction testbed.
 
 | Team 1 | Team 2 | Winner | Prediction |
 | :----: | :----: | :----: | :--------: |
@@ -92,20 +106,21 @@ We
 | Genève-Servette HC | HC Lugano | HC Lugano | HC Lugano |
 | SC Bern | HC Lugano | SC Bern | SC Bern |
 
-##Discussion (issues encountered, overfitting, ...)
+## Discussion
 
+issues encountered / overfittting / etc
 **TODO:**
 * pas beaucoup de data, on a du ajouter la LNB
 * on voulait faire par player mais on a pas pu
 * peu de test set donc dur à correctement évaluer le modele, on a essayé de palier a ca en faisant l'average sr plusieurs runs
 
 
-##Conclusion
+## Conclusion
 
-##Future Outlook
+## Future Outlook
 
 
 ## File contents
-
-example:
-* `ML.ipynb`: this notebook contains all the machine learning models tried, the hyperparamaters selection and the model validation.
+* `Data`: data folder.
+* `ML.ipynb`: contains all the machine learning models tried, the hyperparamaters selection and the model validation.
+* `Viz.ipynb`: contains all the functions used to plot the exploratory data analysis.
