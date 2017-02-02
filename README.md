@@ -89,7 +89,7 @@ After having preprocessed our data, all classfier parameters were chosen using g
 | SVM | 71 | 0.1 |
 
 Here is the learning curve obtained with our best performing model, SVM:
-![Learning curve](learning_curve.png)
+![Learning curve](Plots/learning_curve.png)
 
 
 
