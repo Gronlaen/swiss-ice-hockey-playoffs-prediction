@@ -108,6 +108,10 @@ We used the NLA playoffs of the season 2015-12016 as our prediction testbed.
 
 ## Discussion
 
+We first tried to make an analysis by player but we rapidly saw that the number of statistics for each player was too small to be used and not accurate to predict the outcome of a game.
+
+We are training our models on the games of the playoffs, but as we have only 7 series per year, if we only use the playoff in LNA we don't have enought data to train our model. In order to have more accurate models we also included the series of the playoff in LNB, which doubled our dataset.
+
 issues encountered / overfittting / etc
 **TODO:**
 * pas beaucoup de data, on a du ajouter la LNB
