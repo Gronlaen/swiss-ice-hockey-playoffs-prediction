@@ -124,3 +124,4 @@ issues encountered / overfittting / etc
 * `Data`: data folder.
 * `ML.ipynb`: contains all the machine learning models tried, the hyperparamaters selection and the model validation.
 * `Viz.ipynb`: contains all the functions used to plot the exploratory data analysis.
+* 'Team_Regular_Analysis': contains all the transformation we applied to the original dataset to obtain our training dataset. 
