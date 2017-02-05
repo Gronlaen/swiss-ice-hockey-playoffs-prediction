@@ -28,7 +28,7 @@ There are two main leagues in Switzerland. The national league A (NL A), being t
 
 In this project, we tried to predict the outcome of the series instead of individual games, this is motivated by several factors. First of all randomness plays a huge role in the outcome of single game, a mathematically better team has a 24% chance of always beating an easier opponent. Secondly, this is harder to intuitively define the features for each game.
 ## Data
-We gathered statistic from seasons 2008-2009 to 2015-2016 from the [Swiss Ice Hockey Federation](http://www.sihf.ch/fr/). We extracted the regular season data of each team for both the NL A and NL B. Our data generation pipeline is composed of two steps. First, we build feature vectors of regular season statistics for each team and each season, these statistics include:
+We gathered statistics from seasons 2008-2009 to 2015-2016 from the [Swiss Ice Hockey Federation](http://www.sihf.ch/fr/). We extracted the regular season data of each team for both the NL A and NL B. Our data generation pipeline is composed of two steps. First, we build feature vectors of regular season statistics for each team and each season, these statistics include:
 
 * Year: the season
 * GF: number of goals scored.
@@ -72,10 +72,16 @@ and we append the label of the corresponding winner: 0 or 1.
 
 We trained our models on seasons 08-09 until 14-15 and kept the playoffs of season 15-16 as our testing set.
 
-**TODO:**
+In order to check if it was relevant to use regular season stats to predict playoffs games, we did some exploratory data analysis to try to discover correlation between some statistics and the rank at the end of the season. We include here some of these plots:
 
-* add exploratory data analysis, plots de fref
-* add feature importance, peut etre dans méthodes
+![Comparison between playoffs ranking and regular season ranking](Plots/lna_PO_vs_RE.png)
+
+The above plot is a scatter plot between the rank in regular season and rank in playoffs, the radius of the point symbolizes the number of times this rank happens. Although there is randomness, we can still notice a trend where teams first at the end the season are more likely to win the playoffs, conversely, bottom ranked teams are more likely to be eliminated from the playoffs straight away.
+
+![feat-plot](Plots/features/____Ranking__vs__GF_GP.png)
+
+This plot is a scatter plot of the number of goals scored per match against the ranking, we can observe a trend and correlation between the two. This is also indicative that these statistics could be helpful for our model.
+We also did additional analysis but don't include it here to try to stay concise.
 
 ## Method
 After having preprocessed our data, all classfier parameters were chosen using grid-search and 5-fold cross-validation. Our results are reported here:
@@ -106,21 +112,32 @@ We used the NLA playoffs of the season 2015-12016 as our prediction testbed.
 | Genève-Servette HC | HC Lugano | HC Lugano | HC Lugano |
 | SC Bern | HC Lugano | SC Bern | SC Bern |
 
+Using SVM, we correctly predicted 6 out of 7 playoffs series, which is pretty good. We were able to reproduce this result in 80% of the cases, the other 20% yielded 5/7.
+
 ## Discussion
 
-issues encountered / overfittting / etc
-**TODO:**
-* pas beaucoup de data, on a du ajouter la LNB
-* on voulait faire par player mais on a pas pu
-* peu de test set donc dur à correctement évaluer le modele, on a essayé de palier a ca en faisant l'average sr plusieurs runs
+During this project, we faced some issues and had to change our game plan due to several reasons.
+
+Our first idea was to do clustering on players statistics to try to highlight their player types e.g. "enforcer", "play maker", "sniper" since we only know if they are defender or attacker. We lacked some key statistics in order to do so, e.g. the percentage of completed passes, the number of hits etc...
+
+We first tried to make an analysis by player but we rapidly saw that the number of statistics for each player was too small to be used and not accurate to predict the outcome of a game. That's why we decided to work with the statistics of each team to predict the outcome of playoffs' games.
+
+Working with teams instead of players reduces by a lot the cardinality of our dataset.
+We need to train our models on the games of the playoffs, but as we have only have 7 series per year, if we only use the playoff in LNA we don't have enough data to train the model. In order to have more accurate models, we also included the series of the playoff in LNB, which doubled our dataset. Each model is trained on the playoffs from 2008 to 2014 and is tested on the playoffs 2015-2016. Our testing set contains only 7 series, which is quite small, so to be more accurate we made an average over many runs.
 
 
 ## Conclusion
+We predicted the outcome of playoffs series for the Swiss Ice Hockey league by using regular season statistics and machine learning models. We first merged two datasets at our disposal, namely regular season statistics and playoffs games. Using this created dataset, we tried several models and retained SVM as our final model. Testing on the 15-16 LNA season, we correctly predicted 6 out of 7 series.
 
 ## Future Outlook
 
+This could be interesting to check if we could apply the same method with other sports which have the same playofs format. We could also enhance our models with custom features based on the basic features we used, for example the percentage of possession, which we did not have at our disposal.
 
 ## File contents
 * `Data`: data folder.
+* `Deprecated`: contains the previous notebooks we used to try to analyze players.
+* `Plots`: contains the plots for the exploratory data analysis.
+* `Poster_slides.pdf`: the slides for our poster session.
 * `ML.ipynb`: contains all the machine learning models tried, the hyperparamaters selection and the model validation.
-* `Viz.ipynb`: contains all the functions used to plot the exploratory data analysis.
+* `Visualisation.ipynb`: contains all the functions used to plot the exploratory data analysis.
+* `Team_Regular_Analysis.ipynb`: contains all the transformation we applied to the original dataset to obtain our training dataset. 
